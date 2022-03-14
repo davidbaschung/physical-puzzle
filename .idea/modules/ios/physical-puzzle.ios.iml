@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id=":ios" external.linked.project.path="$MODULE_DIR$/../../../ios" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="physical puzzle (Java, LibGDX)" external.system.module.version="1.0" type="JAVA_MODULE" version="4">
+<module external.linked.project.id=":ios" external.linked.project.path="$MODULE_DIR$/../../../ios" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="physical-puzzle" external.system.module.version="1.0" type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="java-gradle" name="Java-Gradle">
       <configuration>
@@ -25,7 +25,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="physical_puzzle_(Java,_LibGDX).core" />
+    <orderEntry type="module" module-name="physical-puzzle.core" />
     <orderEntry type="library" name="Gradle: com.mobidevelop.robovm:robovm-rt:2.3.0" level="project" />
     <orderEntry type="library" name="Gradle: com.mobidevelop.robovm:robovm-cocoatouch:2.3.0" level="project" />
     <orderEntry type="library" name="Gradle: com.badlogicgames.gdx:gdx-backend-robovm:1.9.4" level="project" />
