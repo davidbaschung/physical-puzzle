@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\David Baschung\.android\build-cache\53e4d5e8309b742d5811213be1d7ae9749ba8824\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26645b518694e20a97fc19a6a3c3933c0cc41bc1">
+        <dex dex="C:\Users\David Baschung\Documents\programmation\MonJeu\prog MonJeu\prototypes\proto3\android\build\intermediates\pre-dexed\debug\classes_695ecf56d0477aeb1a49d1d3f6749e2e69e5cd9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David Baschung\.android\build-cache\7b8a6ef88f262b9eee8d909a12d6c60642cc8b5e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="defc6bc7f5b7374308f6c4446572e66bc7f94ce6">
+        <dex dex="C:\Users\David Baschung\Documents\EMPLOI\informatique\github\projects\physical puzzle (Java, LibGDX)\android\build\intermediates\pre-dexed\debug\classes_c67ffaca9301caa4cbf9885334e297d51c361c1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David Baschung\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\David Baschung\Documents\programmation\MonJeu\prog MonJeu\prototypes\proto3\android\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_d59c2c8fbe9c04afcf28061417f7053a17438742.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David Baschung\Documents\programmation\MonJeu\prog MonJeu\prototypes\proto3\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c4016c034a691db2dfd68c973fde12203fe98e5">
+        <dex dex="C:\Users\David Baschung\Documents\programmation\MonJeu\prog MonJeu\prototypes\proto3\android\build\intermediates\pre-dexed\debug\core-1.0_347cb052b6ec506e0454b2d29f843978cde3ba88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David Baschung\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.4\194b33382d6d58fad031521ba3331d926c476c9b\gdx-backend-android-1.9.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="194b33382d6d58fad031521ba3331d926c476c9b">
+        <dex dex="C:\Users\David Baschung\Documents\programmation\MonJeu\prog MonJeu\prototypes\proto3\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.9.4_3b736478f0eb36b4ac7fe5eac4369e4e7786d021.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David Baschung\.gradle\caches\modules-2\files-2.1\com.badlogicgames.ashley\ashley\1.7.0\a7c4083c0a42027a3c03ba7ccecef6cbe1c5f0a4\ashley-1.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a7c4083c0a42027a3c03ba7ccecef6cbe1c5f0a4">
+        <dex dex="C:\Users\David Baschung\Documents\programmation\MonJeu\prog MonJeu\prototypes\proto3\android\build\intermediates\pre-dexed\debug\ashley-1.7.0_2b455bbbb9446978141f24fc5e316afe4c5af6cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David Baschung\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\David Baschung\Documents\programmation\MonJeu\prog MonJeu\prototypes\proto3\android\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_2717954eb0301d88e5c96fcc91d37269e8c16b08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David Baschung\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.4\98a0d25c9f0637fecac6e4aacf7287aa635964f5\gdx-box2d-1.9.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98a0d25c9f0637fecac6e4aacf7287aa635964f5">
+        <dex dex="C:\Users\David Baschung\Documents\programmation\MonJeu\prog MonJeu\prototypes\proto3\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.9.4_0325d86bd3ad14bb977ee20fdbb7bb20541ac069.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David Baschung\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\David Baschung\Documents\programmation\MonJeu\prog MonJeu\prototypes\proto3\android\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_2bf31237169a81e7048861b732de27485f9a151e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David Baschung\.android\build-cache\bfcda2b4800770536ffe2b2827457b329fd1e6d1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="C:\Users\David Baschung\Documents\programmation\MonJeu\prog MonJeu\prototypes\proto3\android\build\intermediates\pre-dexed\debug\classes_4772273d2b1b64bca1600da9d226d7f933df580f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David Baschung\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-freetype\1.9.4\8816dd669b8ca09e7d5e9575807e92c4318f708\gdx-freetype-1.9.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08816dd669b8ca09e7d5e9575807e92c4318f708">
+        <dex dex="C:\Users\David Baschung\Documents\programmation\MonJeu\prog MonJeu\prototypes\proto3\android\build\intermediates\pre-dexed\debug\gdx-freetype-1.9.4_f3904338a4f5b9310784766ef66def2a77e24508.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David Baschung\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.4\4b4b7962d1bc75af0438f5c81ec1010557bc9ee5\gdx-1.9.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b4b7962d1bc75af0438f5c81ec1010557bc9ee5">
+        <dex dex="C:\Users\David Baschung\Documents\programmation\MonJeu\prog MonJeu\prototypes\proto3\android\build\intermediates\pre-dexed\debug\gdx-1.9.4_a29df290c347686a01bf9869c1317dcdf10838ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David Baschung\.android\build-cache\328718d568b166a8633adcaebfca8b1f78430e70\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\David Baschung\Documents\programmation\MonJeu\prog MonJeu\prototypes\proto3\android\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_12d75933e37e0bf20a4b8e80461a0ce2d57a4a39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David Baschung\.gradle\caches\modules-2\files-2.1\com.underwaterapps.overlap2druntime\overlap2d-runtime-libgdx\0.1.2-SNAPSHOT\74b314adf18f463c2ab6bd0e2124ec304b3ed6ab\overlap2d-runtime-libgdx-0.1.2-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74b314adf18f463c2ab6bd0e2124ec304b3ed6ab">
+        <dex dex="C:\Users\David Baschung\Documents\programmation\MonJeu\prog MonJeu\prototypes\proto3\android\build\intermediates\pre-dexed\debug\overlap2d-runtime-libgdx-0.1.2-SNAPSHOT_d7d25e9c65ccaa9b2d65082b63da902bfcb50a66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David Baschung\.gradle\caches\modules-2\files-2.1\com.badlogicgames.box2dlights\box2dlights\1.4\3d77ad5b4164fb32fc67e2446e35911bb0aaf0bd\box2dlights-1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d77ad5b4164fb32fc67e2446e35911bb0aaf0bd">
+        <dex dex="C:\Users\David Baschung\Documents\programmation\MonJeu\prog MonJeu\prototypes\proto3\android\build\intermediates\pre-dexed\debug\box2dlights-1.4_8b28014a504ff48aee4e7442d1d7093aa040aef2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David Baschung\.android\build-cache\8aa51b7c7818a01acc9cdce97e566005b5c74929\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="defc6bc7f5b7374308f6c4446572e66bc7f94ce6">
+        <dex dex="C:\Users\David Baschung\Documents\programmation\MonJeu\prog MonJeu\prototypes\proto3\android\build\intermediates\pre-dexed\debug\classes_29ba30f8e10e177ef6e1328287c06373da8948eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David Baschung\.gradle\caches\modules-2\files-2.1\de.tomgrill.gdxfacebook\gdx-facebook-core\1.2.2\9c729251038ef749dbc4457584d68e22998cfb6d\gdx-facebook-core-1.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c729251038ef749dbc4457584d68e22998cfb6d">
+        <dex dex="C:\Users\David Baschung\Documents\programmation\MonJeu\prog MonJeu\prototypes\proto3\android\build\intermediates\pre-dexed\debug\gdx-facebook-core-1.2.2_12b326cab82f7b358f3fc73399224cde6bc484dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David Baschung\Documents\EMPLOI\informatique\github\projects\physical puzzle (Java, LibGDX)\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8c1e441ecd3a80114768e2aa469ccdc1c9109db">
+        <dex dex="C:\Users\David Baschung\Documents\EMPLOI\informatique\github\projects\physical puzzle (Java, LibGDX)\android\build\intermediates\pre-dexed\debug\core-1.0_a2a61b71da56fa1742a671de49529d41d4b887d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David Baschung\.android\build-cache\3ebf10faf3f9f5d4f701ce390b11b9ecdbe7a896\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26645b518694e20a97fc19a6a3c3933c0cc41bc1">
+        <dex dex="C:\Users\David Baschung\Documents\EMPLOI\informatique\github\projects\physical puzzle (Java, LibGDX)\android\build\intermediates\pre-dexed\debug\classes_67ebd454d23212c065e500e709386bedae893ec4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David Baschung\.android\build-cache\328718d568b166a8633adcaebfca8b1f78430e70\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\David Baschung\Documents\programmation\MonJeu\prog MonJeu\prototypes\proto3\android\build\intermediates\pre-dexed\debug\classes_b511b178f1809f3153d909ae0c2bd871075c5cb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David Baschung\.android\build-cache\41227e80f797e1606a1bd6858979fa5b8ef8210d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\David Baschung\Documents\programmation\MonJeu\prog MonJeu\prototypes\proto3\android\build\intermediates\pre-dexed\debug\classes_aa11d343a052308e092add02f19c9a90d56fe977.jar" />
+    </item>
+
+</items>

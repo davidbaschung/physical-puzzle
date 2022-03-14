@@ -1,0 +1,19 @@
+
+Backgrounds.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+default_background
+  rotate: false
+  xy: 1, 1
+  size: 756, 1351
+  orig: 756, 1351
+  offset: 0, 0
+  index: -1
+default_ground
+  rotate: false
+  xy: 759, 1
+  size: 756, 1351
+  orig: 756, 1351
+  offset: 0, 0
+  index: -1

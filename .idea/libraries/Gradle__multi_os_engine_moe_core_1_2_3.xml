@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: multi-os-engine:moe-core:1.2.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.moe/moe-sdk-1.2.3/sdk/moe-core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.moe/moe-sdk-1.2.3/sdk/moe-core-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

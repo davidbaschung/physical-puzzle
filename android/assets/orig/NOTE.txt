@@ -1,0 +1,2 @@
+REMARQUE : la taille des assets Ipad a été divisée par deux.
+R2 : l'animation rectangle n'est placée que dans le dossier 1350

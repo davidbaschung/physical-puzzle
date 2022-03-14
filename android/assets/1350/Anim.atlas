@@ -1,0 +1,33 @@
+
+Anim.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+anim1
+  rotate: false
+  xy: 1, 1
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+anim2
+  rotate: false
+  xy: 138, 1
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+anim3
+  rotate: false
+  xy: 275, 1
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+anim4
+  rotate: false
+  xy: 412, 1
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1

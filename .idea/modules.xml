@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/physical_puzzle_(Java,_LibGDX).iml" filepath="$PROJECT_DIR$/.idea/modules/physical_puzzle_(Java,_LibGDX).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/physical_puzzle_(Java,_LibGDX).android.iml" filepath="$PROJECT_DIR$/.idea/modules/android/physical_puzzle_(Java,_LibGDX).android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/physical_puzzle_(Java,_LibGDX).core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/physical_puzzle_(Java,_LibGDX).core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ios/physical_puzzle_(Java,_LibGDX).ios.iml" filepath="$PROJECT_DIR$/.idea/modules/ios/physical_puzzle_(Java,_LibGDX).ios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ios-moe/physical_puzzle_(Java,_LibGDX).ios-moe.iml" filepath="$PROJECT_DIR$/.idea/modules/ios-moe/physical_puzzle_(Java,_LibGDX).ios-moe.iml" />
+    </modules>
+  </component>
+</project>

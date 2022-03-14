@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.6">
+      <module name="physical_puzzle_(Java,_LibGDX).android" target="1.8" />
+      <module name="physical_puzzle_(Java,_LibGDX).ios" target="1.7" />
+      <module name="physical_puzzle_(Java,_LibGDX).ios-moe" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
